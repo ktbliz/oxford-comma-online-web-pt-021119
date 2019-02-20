@@ -28,7 +28,7 @@ def oxford_comma(array)
 
     message << string1
 
-    message << "and #{string2}" 
+    message << ", and #{string2}" 
     
     return message
 
